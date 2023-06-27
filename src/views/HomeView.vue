@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import Counter from '../components/Counter.vue'
+import Todo from "@/components/Todo.vue";
 
 </script>
 
 <template>
 
-  <Counter/>
+  <Todo/>
 
 </template>
