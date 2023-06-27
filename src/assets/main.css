@@ -1,1 +1,9 @@
-@import './base.css';
+
+
+#app{
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}

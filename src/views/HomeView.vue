@@ -1,10 +1,7 @@
 <script setup lang="ts">
-import Todo from "@/components/Todo.vue";
 
 </script>
 
 <template>
-
-  <Todo/>
-
+  <h1>Hello, this is dashboard page</h1>
 </template>
